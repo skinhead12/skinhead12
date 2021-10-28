@@ -9,7 +9,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python |   
+- 💻 &nbsp; Python
 - 🌐 &nbsp;  HTML | CSS | JavaScript | React 
 - 🛢 &nbsp; MySQL | Firebase 
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git
@@ -23,10 +23,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skinhead12&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/skinhead12/github-readme-stats)
 
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-&nbsp; <a href="www.linkedin.com/in/edith-resenos" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 
 
