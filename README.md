@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning React Application Development
-- 🤔 &nbsp; Exploring new technologies  Anime.
+- 🤔 &nbsp; Exploring new technologies & Anime.
 - 💼 &nbsp; Practice to be a Front-end web developer.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
