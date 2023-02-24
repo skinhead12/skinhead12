@@ -2,17 +2,16 @@
 
 <h3> About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning React Application Development
+- 🔭 &nbsp; I'm a front end developer and always trying to get better my skills.
 - 🤔 &nbsp; Exploring new technologies & Anime.
-- 💼 &nbsp; Practice to be a Front-end web developer.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python
-- 🌐 &nbsp;  HTML | CSS | JavaScript | React 
+- 💻 &nbsp; Vue Js | React Js
+- 🌐 &nbsp;  HTML | CSS | JavaScript 
 - 🛢 &nbsp; MySQL | Firebase 
-- 🔧 &nbsp; PyCharm | Visual Studio code | Git
+- 🔧 &nbsp; Visual Studio code | Git
 - 🖥 &nbsp; Gimp xD
 
 <br>
